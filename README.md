@@ -37,7 +37,7 @@ There are mainly two Notebooks available,
 
 •  Customer Segmentation Part1.ipynb : It includes Data analysis and Unsurvised learning techinques to compare general population to the company's customers.
 
-• AMachine Learning Models Part2.ipynb : It includes Supervised learning techniques to predict which individuals are most likely to respond to a mailout campaign.
+• Machine Learning Models Part2.ipynb : It includes Supervised learning techniques to predict which individuals are most likely to respond to a mailout campaign.
 
 And two python files,
 
